@@ -1,5 +1,5 @@
 
-<img src="assets/retail-banner.png" alt="Retail Forecast Banner" style="width:100%; max-height:180px;" />
+<img src="retail-banner.png" alt="Retail Forecast Banner" style="width:100%; max-height:180px;" />
 
 #  Previsão de Demanda em Lojas de Varejo com Aprendizado de Máquina
 
@@ -54,14 +54,12 @@ Este projeto utiliza o dataset **Retail Store Inventory and Demand Forecasting**
 
 ##  Pipeline do Projeto
 
-1. Introdução e objetivo
-2. Sobre os dados
-3. Importação das bibliotecas
-4. Carregamento e análise exploratória (EDA)
-5. Pré-processamento dos dados
-6. Modelagem preditiva (regressão)
-7. Avaliação dos modelos
-8. Conclusão e considerações finais
+1. Introdução
+2. Análise exploratória (EDA)
+3. Pré-processamento dos dados
+4. Modelagem preditiva (regressão)
+5. Avaliação dos modelos
+6. Conclusão e considerações finais
 
 ---
 

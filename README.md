@@ -1,5 +1,5 @@
 
-<img src="retail-banner.png" alt="Retail Forecast Banner" style="width:100%; max-height:180px;" />
+<img src="retail-banner.png" alt="Retail Forecast Banner" style="width:70%; max-height:180px;" />
 
 #  Previsão de Demanda em Lojas de Varejo com Aprendizado de Máquina
 
